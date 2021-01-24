@@ -16,7 +16,7 @@ print ('''
                             "F3  $r                                         
                            $$$$.e$"  .                                      
                            "$$$$$"   "                                      
-     (insTof by 5)           $$$$c  /                                       
+     (Cychris by 5)           $$$$c  /                                       
         .                   $$$$$$$P                                        
        ."c                      $$$                                         
       .$c3b                  ..J$$$$$e                                      
@@ -36,7 +36,7 @@ class InstaBrute (object):
     def __init__(self):
 
         try:
-            user = input ('username : ')
+            user = input ('usernae : ')
             Combo = input ('passList : ')
             print ('\n----------------------------')
 
