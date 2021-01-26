@@ -4,3 +4,4 @@ apt-get python3
 apt-get git
 apt-get wget
 apt-get upgrade && update
+apt-get npm 
